@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/endeavordata/convoy/releases/download/v0.1.0/convoy_0.1.0_windows_amd64.zip",
+            "bin": [
+                "convoy.exe"
+            ],
+            "hash": "c9aa8434cf5bbf1ea1c5d2a8aa3c21e8ce35f25a2714cb274f5e8e86720ca559"
+        },
+        "arm64": {
+            "url": "https://github.com/endeavordata/convoy/releases/download/v0.1.0/convoy_0.1.0_windows_arm64.zip",
+            "bin": [
+                "convoy.exe"
+            ],
+            "hash": "03bb4fdc45fd496bfc99d05075a8969398522e4e34f7dc6f01b8f7007c405cee"
+        }
+    },
+    "homepage": "https://github.com/endeavordata/convoy",
+    "license": "proprietary",
+    "description": "Convoy — Endeavor Labs internal PSA CLI"
+}
