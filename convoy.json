@@ -1,19 +1,19 @@
 {
-    "version": "0.43.0",
+    "version": "0.44.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/endeavordata/homebrew-tap/releases/download/v0.43.0/convoy_0.43.0_windows_amd64.zip",
+            "url": "https://github.com/endeavordata/homebrew-tap/releases/download/v0.44.0/convoy_0.44.0_windows_amd64.zip",
             "bin": [
                 "convoy.exe"
             ],
-            "hash": "93c4da0bf63f7139cfb5b5768312405e32b7a7e9e6c7dab41ab727afe2fefb12"
+            "hash": "9ecb260ca858a968eb09542644f24ddb867d36296b1bad361093a3b67a054c24"
         },
         "arm64": {
-            "url": "https://github.com/endeavordata/homebrew-tap/releases/download/v0.43.0/convoy_0.43.0_windows_arm64.zip",
+            "url": "https://github.com/endeavordata/homebrew-tap/releases/download/v0.44.0/convoy_0.44.0_windows_arm64.zip",
             "bin": [
                 "convoy.exe"
             ],
-            "hash": "af5d9ea29d60ea80700e84e9a5bc88ca40315c5b9de863de03b830671465ca00"
+            "hash": "4a8639d09f0e1440cd9053318df46d723fd734dee96f962c73c8f78dffc0d634"
         }
     },
     "homepage": "https://github.com/endeavordata/convoy",
